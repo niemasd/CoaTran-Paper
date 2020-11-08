@@ -1,0 +1,413 @@
+#NEXUS
+
+Begin taxa;
+	Dimensions ntax=200;
+	Taxlabels
+		'ID_72744_sampled_1_11.239174'
+		'ID_87851_sampled_1_9.061928'
+		'ID_61187_sampled_1_21.366407'
+		'ID_7111_sampled_1_12.205775'
+		'ID_15862_sampled_1_11.616839'
+		'ID_6809_sampled_1_15.867376'
+		'ID_28882_sampled_1_9.297323'
+		'ID_71860_sampled_1_11.853966'
+		'ID_9607_sampled_1_20.015451'
+		'ID_11712_sampled_1_21.737681'
+		'ID_53213_sampled_1_15.424875'
+		'ID_36886_sampled_1_11.953887'
+		'ID_72136_sampled_1_11.564268'
+		'ID_94380_sampled_1_16.070285'
+		'ID_57152_sampled_1_13.839612'
+		'ID_5690_sampled_1_17.852944'
+		'ID_2682_sampled_1_20.97488'
+		'ID_939_sampled_1_17.420656'
+		'ID_28259_sampled_1_18.013706'
+		'ID_50_sampled_1_16.910614'
+		'ID_45483_sampled_1_17.764608'
+		'ID_79335_sampled_1_18.20406'
+		'ID_70838_sampled_1_13.404413'
+		'ID_85157_sampled_1_16.73937'
+		'ID_2409_sampled_1_17.142819'
+		'ID_7130_sampled_1_21.33578'
+		'ID_81785_sampled_1_20.018826'
+		'ID_3510_sampled_1_16.534517'
+		'ID_58000_sampled_1_14.079379'
+		'ID_37692_sampled_1_15.826574'
+		'ID_44609_sampled_1_12.850286'
+		'ID_7364_sampled_1_17.913191'
+		'ID_304_sampled_1_13.762516'
+		'ID_84035_sampled_1_15.60655'
+		'ID_1572_sampled_1_21.99232'
+		'ID_5103_sampled_1_20.143134'
+		'ID_3303_sampled_1_16.672157'
+		'ID_25860_sampled_1_12.611544'
+		'ID_87298_sampled_1_14.072123'
+		'ID_63397_sampled_1_20.397837'
+		'ID_61939_sampled_1_11.401494'
+		'ID_99251_sampled_1_16.513749'
+		'ID_37932_sampled_1_16.971923'
+		'ID_38213_sampled_1_15.460589'
+		'ID_67934_sampled_1_19.536186'
+		'ID_59690_sampled_1_12.990634'
+		'ID_46902_sampled_1_11.429609'
+		'ID_28054_sampled_1_17.996523'
+		'ID_7627_sampled_1_15.236788'
+		'ID_4222_sampled_1_12.585703'
+		'ID_55578_sampled_1_21.593519'
+		'ID_956_sampled_1_18.536924'
+		'ID_73606_sampled_1_16.761538'
+		'ID_43264_sampled_1_16.759195'
+		'ID_20549_sampled_1_15.900521'
+		'ID_9281_sampled_1_17.462603'
+		'ID_47275_sampled_1_22.186461'
+		'ID_39849_sampled_1_15.781624'
+		'ID_54443_sampled_1_14.591811'
+		'ID_15918_sampled_1_21.270697'
+		'ID_3517_sampled_1_19.087125'
+		'ID_21244_sampled_1_19.867313'
+		'ID_5423_sampled_1_13.790841'
+		'ID_92809_sampled_1_20.404447'
+		'ID_17299_sampled_1_21.806841'
+		'ID_36315_sampled_1_10.751057'
+		'ID_57710_sampled_1_13.238574'
+		'ID_1268_sampled_1_13.765017'
+		'ID_70456_sampled_1_18.294385'
+		'ID_6172_sampled_1_20.145363'
+		'ID_91691_sampled_1_13.032441'
+		'ID_10893_sampled_1_13.104316'
+		'ID_71122_sampled_1_15.043784'
+		'ID_39251_sampled_1_17.22605'
+		'ID_15163_sampled_1_6.92497'
+		'ID_35281_sampled_1_10.284169'
+		'ID_89734_sampled_1_16.876563'
+		'ID_52763_sampled_1_12.143955'
+		'ID_36640_sampled_1_12.170578'
+		'ID_7818_sampled_1_7.566557'
+		'ID_9821_sampled_1_14.075906'
+		'ID_2067_sampled_1_17.556497'
+		'ID_29394_sampled_1_12.600506'
+		'ID_193_sampled_1_14.413914'
+		'ID_29757_sampled_1_12.619719'
+		'ID_81186_sampled_1_18.793478'
+		'ID_3052_sampled_1_17.408062'
+		'ID_83227_sampled_1_17.969909'
+		'ID_62694_sampled_1_9.720779'
+		'ID_91548_sampled_1_13.087783'
+		'ID_4420_sampled_1_18.606997'
+		'ID_1246_sampled_1_14.328453'
+		'ID_95283_sampled_1_16.834626'
+		'ID_95362_sampled_1_21.520151'
+		'ID_1691_sampled_1_16.589627'
+		'ID_689_sampled_1_12.929513'
+		'ID_52284_sampled_1_11.685281'
+		'ID_68168_sampled_1_17.105077'
+		'ID_70702_sampled_1_15.615235'
+		'ID_30901_sampled_1_10.339278'
+		'ID_74403_sampled_1_18.012414'
+		'ID_8312_sampled_1_16.812034'
+		'ID_15421_sampled_1_21.003497'
+		'ID_9970_sampled_1_18.960708'
+		'ID_64635_sampled_1_11.497733'
+		'ID_78749_sampled_1_17.114775'
+		'ID_96326_sampled_1_12.067507'
+		'ID_41678_sampled_1_20.718661'
+		'ID_10056_sampled_1_12.040562'
+		'ID_32_sampled_1_19.364781'
+		'ID_38626_sampled_1_22.076081'
+		'ID_60057_sampled_1_14.678294'
+		'ID_36849_sampled_1_20.279401'
+		'ID_57594_sampled_1_20.502216'
+		'ID_98669_sampled_1_11.14162'
+		'ID_94556_sampled_1_13.921988'
+		'ID_37280_sampled_1_17.218749'
+		'ID_41191_sampled_1_18.952372'
+		'ID_98321_sampled_1_11.127542'
+		'ID_62098_sampled_1_13.511453'
+		'ID_739_sampled_1_12.380383'
+		'ID_460_sampled_1_14.959221'
+		'ID_352_sampled_1_12.845158'
+		'ID_83892_sampled_1_12.086496'
+		'ID_14544_sampled_1_16.074331'
+		'ID_2735_sampled_1_16.206531'
+		'ID_35029_sampled_1_21.151161'
+		'ID_16114_sampled_1_21.050651'
+		'ID_321_sampled_1_14.457823'
+		'ID_28176_sampled_1_19.925555'
+		'ID_19729_sampled_1_17.072607'
+		'ID_65262_sampled_1_18.470092'
+		'ID_63831_sampled_1_19.719444'
+		'ID_5534_sampled_1_16.664166'
+		'ID_22_sampled_1_18.105759'
+		'ID_46499_sampled_1_19.625572'
+		'ID_19084_sampled_1_20.677304'
+		'ID_32016_sampled_1_10.364119'
+		'ID_32950_sampled_1_13.458482'
+		'ID_66520_sampled_1_13.895269'
+		'ID_26171_sampled_1_21.32211'
+		'ID_9799_sampled_1_11.681528'
+		'ID_1723_sampled_1_20.199747'
+		'ID_24336_sampled_1_19.955986'
+		'ID_33874_sampled_1_12.465743'
+		'ID_10777_sampled_1_13.134941'
+		'ID_35393_sampled_1_19.516409'
+		'ID_66039_sampled_1_13.593015'
+		'ID_90365_sampled_1_18.245461'
+		'ID_57207_sampled_1_11.303437'
+		'ID_22222_sampled_1_13.15898'
+		'ID_980_sampled_1_21.646848'
+		'ID_2246_sampled_1_18.015442'
+		'ID_61881_sampled_1_14.838659'
+		'ID_45_sampled_1_17.43261'
+		'ID_27222_sampled_1_15.224759'
+		'ID_61484_sampled_1_11.425833'
+		'ID_1073_sampled_1_14.452979'
+		'ID_21105_sampled_1_13.326211'
+		'ID_17106_sampled_1_21.216236'
+		'ID_16360_sampled_1_14.219522'
+		'ID_12192_sampled_1_15.806485'
+		'ID_5685_sampled_1_12.164856'
+		'ID_19026_sampled_1_16.180296'
+		'ID_134_sampled_1_13.335546'
+		'ID_62516_sampled_1_22.000774'
+		'ID_37617_sampled_1_11.102161'
+		'ID_65989_sampled_1_19.824092'
+		'ID_19943_sampled_1_16.556454'
+		'ID_50058_sampled_1_10.810585'
+		'ID_33867_sampled_1_11.232972'
+		'ID_92035_sampled_1_17.110544'
+		'ID_9658_sampled_1_12.16054'
+		'ID_49143_sampled_1_14.110456'
+		'ID_39917_sampled_1_17.640443'
+		'ID_79823_sampled_1_16.705271'
+		'ID_9969_sampled_1_19.479814'
+		'ID_13950_sampled_1_17.633232'
+		'ID_355_sampled_1_11.328089'
+		'ID_14654_sampled_1_12.760889'
+		'ID_73262_sampled_1_19.496357'
+		'ID_9721_sampled_1_7.268558'
+		'ID_15072_sampled_1_11.854046'
+		'ID_17377_sampled_1_8.093511'
+		'ID_42700_sampled_1_11.906853'
+		'ID_40336_sampled_1_20.835594'
+		'ID_18656_sampled_1_15.475581'
+		'ID_41564_sampled_1_19.223562'
+		'ID_73601_sampled_1_13.49589'
+		'ID_60653_sampled_1_18.894929'
+		'ID_89525_sampled_1_13.247602'
+		'ID_16344_sampled_1_15.077558'
+		'ID_48233_sampled_1_19.81528'
+		'ID_51339_sampled_1_13.737612'
+		'ID_50176_sampled_1_12.812736'
+		'ID_42833_sampled_1_15.055258'
+		'ID_75966_sampled_1_21.530655'
+		'ID_498_sampled_1_21.833105'
+		'ID_38578_sampled_1_15.495593'
+		'ID_99999_sampled_1_20.950101'
+		;
+End;
+
+Begin trees;
+	Translate
+		1 'ID_72744_sampled_1_11.239174',
+		2 'ID_87851_sampled_1_9.061928',
+		3 'ID_61187_sampled_1_21.366407',
+		4 'ID_7111_sampled_1_12.205775',
+		5 'ID_15862_sampled_1_11.616839',
+		6 'ID_6809_sampled_1_15.867376',
+		7 'ID_28882_sampled_1_9.297323',
+		8 'ID_71860_sampled_1_11.853966',
+		9 'ID_9607_sampled_1_20.015451',
+		10 'ID_11712_sampled_1_21.737681',
+		11 'ID_53213_sampled_1_15.424875',
+		12 'ID_36886_sampled_1_11.953887',
+		13 'ID_72136_sampled_1_11.564268',
+		14 'ID_94380_sampled_1_16.070285',
+		15 'ID_57152_sampled_1_13.839612',
+		16 'ID_5690_sampled_1_17.852944',
+		17 'ID_2682_sampled_1_20.97488',
+		18 'ID_939_sampled_1_17.420656',
+		19 'ID_28259_sampled_1_18.013706',
+		20 'ID_50_sampled_1_16.910614',
+		21 'ID_45483_sampled_1_17.764608',
+		22 'ID_79335_sampled_1_18.20406',
+		23 'ID_70838_sampled_1_13.404413',
+		24 'ID_85157_sampled_1_16.73937',
+		25 'ID_2409_sampled_1_17.142819',
+		26 'ID_7130_sampled_1_21.33578',
+		27 'ID_81785_sampled_1_20.018826',
+		28 'ID_3510_sampled_1_16.534517',
+		29 'ID_58000_sampled_1_14.079379',
+		30 'ID_37692_sampled_1_15.826574',
+		31 'ID_44609_sampled_1_12.850286',
+		32 'ID_7364_sampled_1_17.913191',
+		33 'ID_304_sampled_1_13.762516',
+		34 'ID_84035_sampled_1_15.60655',
+		35 'ID_1572_sampled_1_21.99232',
+		36 'ID_5103_sampled_1_20.143134',
+		37 'ID_3303_sampled_1_16.672157',
+		38 'ID_25860_sampled_1_12.611544',
+		39 'ID_87298_sampled_1_14.072123',
+		40 'ID_63397_sampled_1_20.397837',
+		41 'ID_61939_sampled_1_11.401494',
+		42 'ID_99251_sampled_1_16.513749',
+		43 'ID_37932_sampled_1_16.971923',
+		44 'ID_38213_sampled_1_15.460589',
+		45 'ID_67934_sampled_1_19.536186',
+		46 'ID_59690_sampled_1_12.990634',
+		47 'ID_46902_sampled_1_11.429609',
+		48 'ID_28054_sampled_1_17.996523',
+		49 'ID_7627_sampled_1_15.236788',
+		50 'ID_4222_sampled_1_12.585703',
+		51 'ID_55578_sampled_1_21.593519',
+		52 'ID_956_sampled_1_18.536924',
+		53 'ID_73606_sampled_1_16.761538',
+		54 'ID_43264_sampled_1_16.759195',
+		55 'ID_20549_sampled_1_15.900521',
+		56 'ID_9281_sampled_1_17.462603',
+		57 'ID_47275_sampled_1_22.186461',
+		58 'ID_39849_sampled_1_15.781624',
+		59 'ID_54443_sampled_1_14.591811',
+		60 'ID_15918_sampled_1_21.270697',
+		61 'ID_3517_sampled_1_19.087125',
+		62 'ID_21244_sampled_1_19.867313',
+		63 'ID_5423_sampled_1_13.790841',
+		64 'ID_92809_sampled_1_20.404447',
+		65 'ID_17299_sampled_1_21.806841',
+		66 'ID_36315_sampled_1_10.751057',
+		67 'ID_57710_sampled_1_13.238574',
+		68 'ID_1268_sampled_1_13.765017',
+		69 'ID_70456_sampled_1_18.294385',
+		70 'ID_6172_sampled_1_20.145363',
+		71 'ID_91691_sampled_1_13.032441',
+		72 'ID_10893_sampled_1_13.104316',
+		73 'ID_71122_sampled_1_15.043784',
+		74 'ID_39251_sampled_1_17.22605',
+		75 'ID_15163_sampled_1_6.92497',
+		76 'ID_35281_sampled_1_10.284169',
+		77 'ID_89734_sampled_1_16.876563',
+		78 'ID_52763_sampled_1_12.143955',
+		79 'ID_36640_sampled_1_12.170578',
+		80 'ID_7818_sampled_1_7.566557',
+		81 'ID_9821_sampled_1_14.075906',
+		82 'ID_2067_sampled_1_17.556497',
+		83 'ID_29394_sampled_1_12.600506',
+		84 'ID_193_sampled_1_14.413914',
+		85 'ID_29757_sampled_1_12.619719',
+		86 'ID_81186_sampled_1_18.793478',
+		87 'ID_3052_sampled_1_17.408062',
+		88 'ID_83227_sampled_1_17.969909',
+		89 'ID_62694_sampled_1_9.720779',
+		90 'ID_91548_sampled_1_13.087783',
+		91 'ID_4420_sampled_1_18.606997',
+		92 'ID_1246_sampled_1_14.328453',
+		93 'ID_95283_sampled_1_16.834626',
+		94 'ID_95362_sampled_1_21.520151',
+		95 'ID_1691_sampled_1_16.589627',
+		96 'ID_689_sampled_1_12.929513',
+		97 'ID_52284_sampled_1_11.685281',
+		98 'ID_68168_sampled_1_17.105077',
+		99 'ID_70702_sampled_1_15.615235',
+		100 'ID_30901_sampled_1_10.339278',
+		101 'ID_74403_sampled_1_18.012414',
+		102 'ID_8312_sampled_1_16.812034',
+		103 'ID_15421_sampled_1_21.003497',
+		104 'ID_9970_sampled_1_18.960708',
+		105 'ID_64635_sampled_1_11.497733',
+		106 'ID_78749_sampled_1_17.114775',
+		107 'ID_96326_sampled_1_12.067507',
+		108 'ID_41678_sampled_1_20.718661',
+		109 'ID_10056_sampled_1_12.040562',
+		110 'ID_32_sampled_1_19.364781',
+		111 'ID_38626_sampled_1_22.076081',
+		112 'ID_60057_sampled_1_14.678294',
+		113 'ID_36849_sampled_1_20.279401',
+		114 'ID_57594_sampled_1_20.502216',
+		115 'ID_98669_sampled_1_11.14162',
+		116 'ID_94556_sampled_1_13.921988',
+		117 'ID_37280_sampled_1_17.218749',
+		118 'ID_41191_sampled_1_18.952372',
+		119 'ID_98321_sampled_1_11.127542',
+		120 'ID_62098_sampled_1_13.511453',
+		121 'ID_739_sampled_1_12.380383',
+		122 'ID_460_sampled_1_14.959221',
+		123 'ID_352_sampled_1_12.845158',
+		124 'ID_83892_sampled_1_12.086496',
+		125 'ID_14544_sampled_1_16.074331',
+		126 'ID_2735_sampled_1_16.206531',
+		127 'ID_35029_sampled_1_21.151161',
+		128 'ID_16114_sampled_1_21.050651',
+		129 'ID_321_sampled_1_14.457823',
+		130 'ID_28176_sampled_1_19.925555',
+		131 'ID_19729_sampled_1_17.072607',
+		132 'ID_65262_sampled_1_18.470092',
+		133 'ID_63831_sampled_1_19.719444',
+		134 'ID_5534_sampled_1_16.664166',
+		135 'ID_22_sampled_1_18.105759',
+		136 'ID_46499_sampled_1_19.625572',
+		137 'ID_19084_sampled_1_20.677304',
+		138 'ID_32016_sampled_1_10.364119',
+		139 'ID_32950_sampled_1_13.458482',
+		140 'ID_66520_sampled_1_13.895269',
+		141 'ID_26171_sampled_1_21.32211',
+		142 'ID_9799_sampled_1_11.681528',
+		143 'ID_1723_sampled_1_20.199747',
+		144 'ID_24336_sampled_1_19.955986',
+		145 'ID_33874_sampled_1_12.465743',
+		146 'ID_10777_sampled_1_13.134941',
+		147 'ID_35393_sampled_1_19.516409',
+		148 'ID_66039_sampled_1_13.593015',
+		149 'ID_90365_sampled_1_18.245461',
+		150 'ID_57207_sampled_1_11.303437',
+		151 'ID_22222_sampled_1_13.15898',
+		152 'ID_980_sampled_1_21.646848',
+		153 'ID_2246_sampled_1_18.015442',
+		154 'ID_61881_sampled_1_14.838659',
+		155 'ID_45_sampled_1_17.43261',
+		156 'ID_27222_sampled_1_15.224759',
+		157 'ID_61484_sampled_1_11.425833',
+		158 'ID_1073_sampled_1_14.452979',
+		159 'ID_21105_sampled_1_13.326211',
+		160 'ID_17106_sampled_1_21.216236',
+		161 'ID_16360_sampled_1_14.219522',
+		162 'ID_12192_sampled_1_15.806485',
+		163 'ID_5685_sampled_1_12.164856',
+		164 'ID_19026_sampled_1_16.180296',
+		165 'ID_134_sampled_1_13.335546',
+		166 'ID_62516_sampled_1_22.000774',
+		167 'ID_37617_sampled_1_11.102161',
+		168 'ID_65989_sampled_1_19.824092',
+		169 'ID_19943_sampled_1_16.556454',
+		170 'ID_50058_sampled_1_10.810585',
+		171 'ID_33867_sampled_1_11.232972',
+		172 'ID_92035_sampled_1_17.110544',
+		173 'ID_9658_sampled_1_12.16054',
+		174 'ID_49143_sampled_1_14.110456',
+		175 'ID_39917_sampled_1_17.640443',
+		176 'ID_79823_sampled_1_16.705271',
+		177 'ID_9969_sampled_1_19.479814',
+		178 'ID_13950_sampled_1_17.633232',
+		179 'ID_355_sampled_1_11.328089',
+		180 'ID_14654_sampled_1_12.760889',
+		181 'ID_73262_sampled_1_19.496357',
+		182 'ID_9721_sampled_1_7.268558',
+		183 'ID_15072_sampled_1_11.854046',
+		184 'ID_17377_sampled_1_8.093511',
+		185 'ID_42700_sampled_1_11.906853',
+		186 'ID_40336_sampled_1_20.835594',
+		187 'ID_18656_sampled_1_15.475581',
+		188 'ID_41564_sampled_1_19.223562',
+		189 'ID_73601_sampled_1_13.49589',
+		190 'ID_60653_sampled_1_18.894929',
+		191 'ID_89525_sampled_1_13.247602',
+		192 'ID_16344_sampled_1_15.077558',
+		193 'ID_48233_sampled_1_19.81528',
+		194 'ID_51339_sampled_1_13.737612',
+		195 'ID_50176_sampled_1_12.812736',
+		196 'ID_42833_sampled_1_15.055258',
+		197 'ID_75966_sampled_1_21.530655',
+		198 'ID_498_sampled_1_21.833105',
+		199 'ID_38578_sampled_1_15.495593',
+		200 'ID_99999_sampled_1_20.950101'
+		;
+tree TREE1 [&firstCase=ID_99999] = [&R] (((((((((((((1[&Event=TransmissionTreeToVirusTree3$Event@71dac704,Unit="ID_72744"]:2.179844000000001)[&Event=TransmissionTreeToVirusTree3$Event@3d646c37,Unit="ID_61187"]:0.3431460048992552,(2[&Event=TransmissionTreeToVirusTree3$Event@123772c4,Unit="ID_87851"]:0.21791100000000085)[&Event=TransmissionTreeToVirusTree3$Event@26a1ab54,Unit="ID_61187"]:0.1278330048992533)[&Unit="ID_61187"]:0.7461240915957497,(3[&Event=TransmissionTreeToVirusTree3$Event@2d363fb3,Unit="ID_61187"]:10.867887025113092,(4[&Event=TransmissionTreeToVirusTree3$Event@7d6f77cc,Unit="ID_7111"]:1.2980459999999994)[&Event=TransmissionTreeToVirusTree3$Event@41cf53f9,Unit="ID_61187"]:0.40920902511309265)[&Unit="ID_61187"]:2.5284600713819128)[&Unit="ID_61187"]:0.5102069035049954)[&Event=TransmissionTreeToVirusTree3$Event@5a10411,Unit="ID_15163"]:0.4088858663703352,(((((5[&Event=TransmissionTreeToVirusTree3$Event@5aaa6d82,Unit="ID_15862"]:2.1969710000000013)[&Event=TransmissionTreeToVirusTree3$Event@3fa77460,Unit="ID_6809"]:0.6249709871435023,6[&Event=TransmissionTreeToVirusTree3$Event@73a28541,Unit="ID_6809"]:7.072478987143503)[&Unit="ID_6809"]:0.5144523475284108,(((((((7[&Event=TransmissionTreeToVirusTree3$Event@6f75e721,Unit="ID_28882"]:0.4287530000000004)[&Event=TransmissionTreeToVirusTree3$Event@1a86f2f1,Unit="ID_304"]:0.01579279382066545,(((((((8[&Event=TransmissionTreeToVirusTree3$Event@69222c14,Unit="ID_71860"]:2.1486269999999994)[&Event=TransmissionTreeToVirusTree3$Event@277050dc,Unit="ID_11712"]:0.10429545236119608,((9[&Event=TransmissionTreeToVirusTree3$Event@606d8acf,Unit="ID_9607"]:9.080474999999998)[&Event=TransmissionTreeToVirusTree3$Event@5c29bfd,Unit="ID_11712"]:0.7823504009864806,10[&Event=TransmissionTreeToVirusTree3$Event@782830e,Unit="ID_11712"]:11.585055400986478)[&Unit="ID_11712"]:0.5515820513747158)[&Unit="ID_11712"]:0.016083547638803708)[&Event=TransmissionTreeToVirusTree3$Event@7aec35a,Unit="ID_304"]:0.23465558438698686,((((((11[&Event=TransmissionTreeToVirusTree3$Event@470e2030,Unit="ID_53213"]:5.144313)[&Event=TransmissionTreeToVirusTree3$Event@255316f2,Unit="ID_50"]:0.0037577508537633975,((((12[&Event=TransmissionTreeToVirusTree3$Event@3fb4f649,Unit="ID_36886"]:1.152849999999999)[&Event=TransmissionTreeToVirusTree3$Event@5ef04b5,Unit="ID_50"]:0.2653462122267145,(13[&Event=TransmissionTreeToVirusTree3$Event@33833882,Unit="ID_72136"]:1.0132030000000007)[&Event=TransmissionTreeToVirusTree3$Event@5387f9e0,Unit="ID_50"]:0.015374212226713091)[&Unit="ID_50"]:0.1630007046032942,(((14[&Event=TransmissionTreeToVirusTree3$Event@200a570f,Unit="ID_94380"]:5.493643999999998)[&Event=TransmissionTreeToVirusTree3$Event@2cdf8d8a,Unit="ID_50"]:0.09919042873569683,(15[&Event=TransmissionTreeToVirusTree3$Event@16b3fc9e,Unit="ID_57152"]:3.357095000000001)[&Event=TransmissionTreeToVirusTree3$Event@4b9af9a9,Unit="ID_50"]:0.005066428735696071)[&Unit="ID_50"]:0.012576873292289292,(((16[&Event=TransmissionTreeToVirusTree3$Event@e2d56bf,Unit="ID_5690"]:7.274157000000001)[&Event=TransmissionTreeToVirusTree3$Event@30946e09,Unit="ID_50"]:0.00442847687007486,(17[&Event=TransmissionTreeToVirusTree3$Event@244038d0,Unit="ID_2682"]:10.334304999999999)[&Event=TransmissionTreeToVirusTree3$Event@1698c449,Unit="ID_50"]:0.06621647687007481)[&Unit="ID_50"]:0.08254745805399999,((((18[&Event=TransmissionTreeToVirusTree3$Event@5680a178,Unit="ID_939"]:6.792952259944596,(19[&Event=TransmissionTreeToVirusTree3$Event@5fdef03a,Unit="ID_28259"]:7.082524999999999)[&Event=TransmissionTreeToVirusTree3$Event@5cb0d902,Unit="ID_939"]:0.3034772599445956)[&Unit="ID_939"]:0.02177974005540495)[&Event=TransmissionTreeToVirusTree3$Event@46fbb2c1,Unit="ID_50"]:0.0691714077916119,(((20[&Event=TransmissionTreeToVirusTree3$Event@3b22cdd0,Unit="ID_50"]:5.9714100461467075,(21[&Event=TransmissionTreeToVirusTree3$Event@1e81f4dc,Unit="ID_45483"]:6.76596)[&Event=TransmissionTreeToVirusTree3$Event@443b7951,Unit="ID_50"]:0.05944404614670784)[&Unit="ID_50"]:0.0786771847404042,(22[&Event=TransmissionTreeToVirusTree3$Event@4d591d15,Unit="ID_79335"]:7.252550999999999)[&Event=TransmissionTreeToVirusTree3$Event@5f4da5c3,Unit="ID_50"]:0.09098223088711244)[&Unit="ID_50"]:0.1937593769783792,(23[&Event=TransmissionTreeToVirusTree3$Event@65ae6ba4,Unit="ID_70838"]:2.3398520000000005)[&Event=TransmissionTreeToVirusTree3$Event@14514713,Unit="ID_50"]:0.39779360786549134)[&Unit="ID_50"]:0.13001479992612008)[&Unit="ID_50"]:0.0024080441460352375,(24[&Event=TransmissionTreeToVirusTree3$Event@48cf768c,Unit="ID_85157"]:6.182896000000001)[&Event=TransmissionTreeToVirusTree3$Event@6e5e91e4,Unit="ID_50"]:0.022129451937646927)[&Unit="ID_50"]:0.04253348298642745)[&Unit="ID_50"]:0.026937367103911036)[&Unit="ID_50"]:0.09218361480202208)[&Unit="ID_50"]:0.05742862600239196,(25[&Event=TransmissionTreeToVirusTree3$Event@59f95c5d,Unit="ID_2409"]:6.820036999999999)[&Event=TransmissionTreeToVirusTree3$Event@41906a77,Unit="ID_50"]:0.00752054283239989)[&Unit="ID_50"]:0.038457208021363876)[&Unit="ID_50"]:0.0396612491462367)[&Event=TransmissionTreeToVirusTree3$Event@69663380,Unit="ID_304"]:0.3436408664562314,((26[&Event=TransmissionTreeToVirusTree3$Event@5ccd43c2,Unit="ID_7130"]:11.280288269644338,(27[&Event=TransmissionTreeToVirusTree3$Event@4aa8f0b4,Unit="ID_81785"]:9.402846)[&Event=TransmissionTreeToVirusTree3$Event@579bb367,Unit="ID_7130"]:0.5604882696443383)[&Unit="ID_7130"]:0.07422973035566294)[&Event=TransmissionTreeToVirusTree3$Event@1de0aca6,Unit="ID_304"]:0.0877598664562309)[&Unit="ID_304"]:0.14033961973437803,(((28[&Event=TransmissionTreeToVirusTree3$Event@7960847b,Unit="ID_3510"]:6.158399035633416,(((29[&Event=TransmissionTreeToVirusTree3$Event@6a6824be,Unit="ID_58000"]:3.499789999999999)[&Event=TransmissionTreeToVirusTree3$Event@4459eb14,Unit="ID_37692"]:0.023749495907180673,30[&Event=TransmissionTreeToVirusTree3$Event@5c8da962,Unit="ID_37692"]:5.270734495907181)[&Unit="ID_37692"]:0.061161504092819285)[&Event=TransmissionTreeToVirusTree3$Event@5a2e4553,Unit="ID_3510"]:0.11856003563341577)[&Unit="ID_3510"]:0.04905296436658535)[&Event=TransmissionTreeToVirusTree3$Event@28c97a5,Unit="ID_304"]:0.25223570320176414,(((31[&Event=TransmissionTreeToVirusTree3$Event@512ddf17,Unit="ID_44609"]:1.9531590000000012)[&Event=TransmissionTreeToVirusTree3$Event@6659c656,Unit="ID_304"]:0.6564758056061901,(32[&Event=TransmissionTreeToVirusTree3$Event@2c13da15,Unit="ID_7364"]:7.598986000000002)[&Event=TransmissionTreeToVirusTree3$Event@5b37e0d2,Unit="ID_304"]:0.07355380560619018)[&Unit="ID_304"]:0.11451862134465696,33[&Event=TransmissionTreeToVirusTree3$Event@77556fd,Unit="ID_304"]:3.6363834269508475)[&Unit="ID_304"]:0.05130327625091713)[&Unit="ID_304"]:0.3216667829888449)[&Unit="ID_304"]:0.05670804673850771,((((34[&Event=TransmissionTreeToVirusTree3$Event@368239c8,Unit="ID_84035"]:5.4909110000000005)[&Event=TransmissionTreeToVirusTree3$Event@42110406,Unit="ID_1572"]:0.029235263251692345,35[&Event=TransmissionTreeToVirusTree3$Event@9e89d68,Unit="ID_1572"]:11.905916263251692)[&Unit="ID_1572"]:0.260780659213113,(36[&Event=TransmissionTreeToVirusTree3$Event@3b192d32,Unit="ID_5103"]:10.013344)[&Event=TransmissionTreeToVirusTree3$Event@531d72ca,Unit="ID_1572"]:0.30416692246480537)[&Unit="ID_1572"]:0.02407907753519467)[&Event=TransmissionTreeToVirusTree3$Event@22d8cfe0,Unit="ID_304"]:0.10508953292911727)[&Unit="ID_304"]:0.3461500514578688)[&Unit="ID_304"]:0.07168240601495945,(((37[&Event=TransmissionTreeToVirusTree3$Event@16f65612,Unit="ID_3303"]:7.209559281067274,(38[&Event=TransmissionTreeToVirusTree3$Event@311d617d,Unit="ID_25860"]:2.9213330000000006)[&Event=TransmissionTreeToVirusTree3$Event@799f7e29,Unit="ID_3303"]:0.22761328106727508)[&Unit="ID_3303"]:0.048195718932723786)[&Event=TransmissionTreeToVirusTree3$Event@4b85612c,Unit="ID_304"]:0.06305195945170894,(39[&Event=TransmissionTreeToVirusTree3$Event@7c53a9eb,Unit="ID_87298"]:4.457383)[&Event=TransmissionTreeToVirusTree3$Event@67424e82,Unit="ID_304"]:0.2633899594517075)[&Unit="ID_304"]:0.07272803095023761)[&Unit="ID_304"]:0.010517972338947246,(40[&Event=TransmissionTreeToVirusTree3$Event@ed17bee,Unit="ID_63397"]:11.087599999999998)[&Event=TransmissionTreeToVirusTree3$Event@446cdf90,Unit="ID_304"]:0.04213296274089373)[&Unit="ID_304"]:0.3808306615509105,(((41[&Event=TransmissionTreeToVirusTree3$Event@2a33fae0,Unit="ID_61939"]:1.6721969999999988)[&Event=TransmissionTreeToVirusTree3$Event@3eb07fd3,Unit="ID_37932"]:0.2843015310720878,((42[&Event=TransmissionTreeToVirusTree3$Event@707f7052,Unit="ID_99251"]:6.461622)[&Event=TransmissionTreeToVirusTree3$Event@506c589e,Unit="ID_37932"]:0.21854228407001308,43[&Event=TransmissionTreeToVirusTree3$Event@11028347,Unit="ID_37932"]:7.138338284070013)[&Unit="ID_37932"]:0.3885892470020744)[&Unit="ID_37932"]:0.41841646892791307)[&Event=TransmissionTreeToVirusTree3$Event@69d0a921,Unit="ID_304"]:0.13930562429180338)[&Unit="ID_304"]:0.03449616952886192)[&Unit="ID_304"]:0.01300520617933465)[&Event=TransmissionTreeToVirusTree3$Event@6d5380c2,Unit="ID_38213"]:0.06738845564352225,44[&Event=TransmissionTreeToVirusTree3$Event@14899482,Unit="ID_38213"]:6.688205455643523)[&Unit="ID_38213"]:0.23959954435647823)[&Event=TransmissionTreeToVirusTree3$Event@45ff54e6,Unit="ID_6809"]:0.005705410050205195,(45[&Event=TransmissionTreeToVirusTree3$Event@21588809,Unit="ID_67934"]:10.739897000000001)[&Event=TransmissionTreeToVirusTree3$Event@2328c243,Unit="ID_6809"]:0.2692104100502055)[&Unit="ID_6809"]:0.058813734426395925,(((((((((((46[&Event=TransmissionTreeToVirusTree3$Event@2aae9190,Unit="ID_59690"]:3.220974)[&Event=TransmissionTreeToVirusTree3$Event@2077d4de,Unit="ID_7627"]:0.11625455858945077,(47[&Event=TransmissionTreeToVirusTree3$Event@2f333739,Unit="ID_46902"]:0.6951229999999988)[&Event=TransmissionTreeToVirusTree3$Event@7591083d,Unit="ID_7627"]:1.0810805585894512)[&Unit="ID_7627"]:0.005603327826921856,((48[&Event=TransmissionTreeToVirusTree3$Event@77468bd9,Unit="ID_28054"]:7.130825)[&Event=TransmissionTreeToVirusTree3$Event@77a567e1,Unit="ID_7627"]:0.22044900868541095,49[&Event=TransmissionTreeToVirusTree3$Event@12bb4df8,Unit="ID_7627"]:4.5915390086854115)[&Unit="ID_7627"]:0.9974468777309617)[&Unit="ID_7627"]:0.4088411135836276)[&Event=TransmissionTreeToVirusTree3$Event@736e9adb,Unit="ID_4222"]:0.004921467534199309,50[&Event=TransmissionTreeToVirusTree3$Event@4cc77c2e,Unit="ID_4222"]:3.3516634675342)[&Unit="ID_4222"]:0.01411353246580127)[&Event=TransmissionTreeToVirusTree3$Event@6d21714c,Unit="ID_956"]:0.03193977160769279,((((((51[&Event=TransmissionTreeToVirusTree3$Event@7a7b0070,Unit="ID_55578"]:11.148502)[&Event=TransmissionTreeToVirusTree3$Event@23ab930d,Unit="ID_956"]:0.051612989482345384,52[&Event=TransmissionTreeToVirusTree3$Event@39a054a5,Unit="ID_956"]:8.143519989482344)[&Unit="ID_956"]:0.7809893288394161,(53[&Event=TransmissionTreeToVirusTree3$Event@71bc1ae4,Unit="ID_73606"]:7.054211000000002)[&Event=TransmissionTreeToVirusTree3$Event@5fa7e7ff,Unit="ID_956"]:0.09491231832176084)[&Unit="ID_956"]:0.25428131418804334,(((54[&Event=TransmissionTreeToVirusTree3$Event@6ed3ef1,Unit="ID_43264"]:5.865981999999999)[&Event=TransmissionTreeToVirusTree3$Event@4bf558aa,Unit="ID_20549"]:0.20358859902502857,55[&Event=TransmissionTreeToVirusTree3$Event@2437c6dc,Unit="ID_20549"]:5.210896599025029)[&Unit="ID_20549"]:1.2851694009749703)[&Event=TransmissionTreeToVirusTree3$Event@2d38eb89,Unit="ID_956"]:0.046321632509805255)[&Unit="ID_956"]:0.02383436989277321,(((56[&Event=TransmissionTreeToVirusTree3$Event@1f89ab83,Unit="ID_9281"]:7.511669000000001)[&Event=TransmissionTreeToVirusTree3$Event@4d76f3f8,Unit="ID_956"]:0.00484210890556902,(57[&Event=TransmissionTreeToVirusTree3$Event@e73f9ac,Unit="ID_47275"]:11.952346000000002)[&Event=TransmissionTreeToVirusTree3$Event@2d8e6db6,Unit="ID_956"]:0.28802310890556804)[&Unit="ID_956"]:0.5345532123940799,((58[&Event=TransmissionTreeToVirusTree3$Event@61064425,Unit="ID_39849"]:5.066132915143134,(59[&Event=TransmissionTreeToVirusTree3$Event@7b1d7fff,Unit="ID_54443"]:3.690441999999999)[&Event=TransmissionTreeToVirusTree3$Event@4629104a,Unit="ID_39849"]:0.18587791514313423)[&Unit="ID_39849"]:0.8764110848568674)[&Event=TransmissionTreeToVirusTree3$Event@27f8302d,Unit="ID_956"]:0.42754132129964795)[&Unit="ID_956"]:0.07723968110292923)[&Unit="ID_956"]:0.05331459878445699,(60[&Event=TransmissionTreeToVirusTree3$Event@299a06ac,Unit="ID_15918"]:11.956794999999998)[&Event=TransmissionTreeToVirusTree3$Event@108c4c35,Unit="ID_956"]:0.03291760118703557)[&Unit="ID_956"]:0.09299817042065861)[&Unit="ID_956"]:0.04513573462248033,(61[&Event=TransmissionTreeToVirusTree3$Event@383534aa,Unit="ID_3517"]:9.750256)[&Event=TransmissionTreeToVirusTree3$Event@4ccabbaa,Unit="ID_956"]:0.19401850623017403)[&Unit="ID_956"]:0.04860743253484401,(((62[&Event=TransmissionTreeToVirusTree3$Event@6bc168e5,Unit="ID_21244"]:9.700089)[&Event=TransmissionTreeToVirusTree3$Event@7a4f0f29,Unit="ID_5423"]:0.03133231163413308,63[&Event=TransmissionTreeToVirusTree3$Event@7b3300e5,Unit="ID_5423"]:3.6549493116341343)[&Unit="ID_5423"]:0.9750426883658654)[&Event=TransmissionTreeToVirusTree3$Event@45283ce2,Unit="ID_956"]:0.06660593876501864)[&Unit="ID_956"]:0.029790907741018557,(64[&Event=TransmissionTreeToVirusTree3$Event@2e5c649,Unit="ID_92809"]:11.277684)[&Event=TransmissionTreeToVirusTree3$Event@bebdb06,Unit="ID_956"]:0.06231084650603691)[&Unit="ID_956"]:0.08932315349396269)[&Event=TransmissionTreeToVirusTree3$Event@4534b60d,Unit="ID_6809"]:0.5068641444766024)[&Unit="ID_6809"]:0.18782019019531226)[&Unit="ID_6809"]:0.1619347586767601,((((65[&Event=TransmissionTreeToVirusTree3$Event@136432db,Unit="ID_17299"]:12.701664999999998)[&Event=TransmissionTreeToVirusTree3$Event@b81eda8,Unit="ID_1268"]:0.02881109387888081,((((66[&Event=TransmissionTreeToVirusTree3$Event@7382f612,Unit="ID_36315"]:0.2160839999999986)[&Event=TransmissionTreeToVirusTree3$Event@2b71fc7e,Unit="ID_1268"]:0.6027370437727604,((67[&Event=TransmissionTreeToVirusTree3$Event@1055e4af,Unit="ID_57710"]:2.6112959999999994)[&Event=TransmissionTreeToVirusTree3$Event@5ce65a89,Unit="ID_1268"]:0.10260308484573244,68[&Event=TransmissionTreeToVirusTree3$Event@3caeaf62,Unit="ID_1268"]:3.2403420848457323)[&Unit="ID_1268"]:0.5924389589270276)[&Unit="ID_1268"]:0.06240826887698292,(((69[&Event=TransmissionTreeToVirusTree3$Event@e6ea0c6,Unit="ID_70456"]:7.582855999999998)[&Event=TransmissionTreeToVirusTree3$Event@27fa135a,Unit="ID_6172"]:0.22571632438284972,(70[&Event=TransmissionTreeToVirusTree3$Event@6a38e57f,Unit="ID_6172"]:9.42765466945622,(71[&Event=TransmissionTreeToVirusTree3$Event@5577140b,Unit="ID_91691"]:1.9964500000000012)[&Event=TransmissionTreeToVirusTree3$Event@46f7f36a,Unit="ID_6172"]:0.3182826694562202)[&Unit="ID_6172"]:0.23189565492662823)[&Unit="ID_6172"]:0.30650367561715086)[&Event=TransmissionTreeToVirusTree3$Event@421faab1,Unit="ID_1268"]:0.30948131264974243)[&Unit="ID_1268"]:0.3199787856300098,(72[&Event=TransmissionTreeToVirusTree3$Event@1c6b6478,Unit="ID_10893"]:3.3814740000000008)[&Event=TransmissionTreeToVirusTree3$Event@68de145,Unit="ID_1268"]:0.1729930982797523)[&Unit="ID_1268"]:0.47348399559912835)[&Unit="ID_1268"]:0.36464831558911825,(((73[&Event=TransmissionTreeToVirusTree3$Event@67f89fa3,Unit="ID_71122"]:4.086228)[&Event=TransmissionTreeToVirusTree3$Event@2ef1e4fa,Unit="ID_39251"]:0.4498673982259298,74[&Event=TransmissionTreeToVirusTree3$Event@4ac68d3e,Unit="ID_39251"]:6.71836139822593)[&Unit="ID_39251"]:1.5960426017740712)[&Event=TransmissionTreeToVirusTree3$Event@306a30c7,Unit="ID_1268"]:0.1999294094679982)[&Unit="ID_1268"]:0.3344135905320016)[&Event=TransmissionTreeToVirusTree3$Event@25f38edc,Unit="ID_6809"]:0.2587930933486735)[&Unit="ID_6809"]:0.24211890665132607)[&Event=TransmissionTreeToVirusTree3$Event@619a5dff,Unit="ID_15163"]:0.8254238663703353)[&Unit="ID_15163"]:2.002543363335498,75[&Event=TransmissionTreeToVirusTree3$Event@277c0f21,Unit="ID_15163"]:1.8765462297058333)[&Unit="ID_15163"]:1.0536707702941666)[&Event=TransmissionTreeToVirusTree3$Event@1ed6993a,Unit="ID_7818"]:1.301398186426935,(((((((76[&Event=TransmissionTreeToVirusTree3$Event@6073f712,Unit="ID_35281"]:0.8748830831338525,(77[&Event=TransmissionTreeToVirusTree3$Event@43556938,Unit="ID_89734"]:7.397782000000001)[&Event=TransmissionTreeToVirusTree3$Event@7e32c033,Unit="ID_35281"]:0.06949508313385189)[&Unit="ID_35281"]:0.08548991686614804)[&Event=TransmissionTreeToVirusTree3$Event@7ab2bfe1,Unit="ID_52763"]:0.5633379144269508,78[&Event=TransmissionTreeToVirusTree3$Event@3d04a311,Unit="ID_52763"]:3.383496914426951)[&Unit="ID_52763"]:0.9972880855730493)[&Event=TransmissionTreeToVirusTree3$Event@497470ed,Unit="ID_36640"]:0.06533283903378706,79[&Event=TransmissionTreeToVirusTree3$Event@7a46a697,Unit="ID_36640"]:4.472740839033788)[&Unit="ID_36640"]:1.096141160966213)[&Event=TransmissionTreeToVirusTree3$Event@63c12fb0,Unit="ID_7818"]:0.008424575779321763,(80[&Event=TransmissionTreeToVirusTree3$Event@5f205aa,Unit="ID_7818"]:0.14156355384845387,(((((81[&Event=TransmissionTreeToVirusTree3$Event@6d86b085,Unit="ID_9821"]:4.179907470333025,((82[&Event=TransmissionTreeToVirusTree3$Event@75828a0f,Unit="ID_2067"]:7.2797160000000005)[&Event=TransmissionTreeToVirusTree3$Event@b1a58a3,Unit="ID_9821"]:0.00639088032910351,(83[&Event=TransmissionTreeToVirusTree3$Event@3abfe836,Unit="ID_29394"]:2.093019)[&Event=TransmissionTreeToVirusTree3$Event@6438a396,Unit="ID_9821"]:0.23709688032910314)[&Unit="ID_9821"]:0.3743915900039214)[&Unit="ID_9821"]:0.5254435296669753)[&Event=TransmissionTreeToVirusTree3$Event@e2144e4,Unit="ID_193"]:0.04411114914068559,((84[&Event=TransmissionTreeToVirusTree3$Event@2ff5659e,Unit="ID_193"]:4.4581937693283225,(85[&Event=TransmissionTreeToVirusTree3$Event@77afea7d,Unit="ID_29757"]:2.191905)[&Event=TransmissionTreeToVirusTree3$Event@156643d4,Unit="ID_193"]:0.47209376932832203)[&Unit="ID_193"]:0.49686651012465965,(((86[&Event=TransmissionTreeToVirusTree3$Event@161cd475,Unit="ID_81186"]:8.515182000000001)[&Event=TransmissionTreeToVirusTree3$Event@5e265ba4,Unit="ID_193"]:0.32859807266147634,(87[&Event=TransmissionTreeToVirusTree3$Event@532760d8,Unit="ID_3052"]:7.4286080000000005)[&Event=TransmissionTreeToVirusTree3$Event@cac736f,Unit="ID_193"]:0.029756072661477617)[&Unit="ID_193"]:0.3115531148711215,(88[&Event=TransmissionTreeToVirusTree3$Event@57fa26b7,Unit="ID_83227"]:8.190858)[&Event=TransmissionTreeToVirusTree3$Event@379619aa,Unit="ID_193"]:0.14090618753259943)[&Unit="ID_193"]:0.1792910919203834)[&Unit="ID_193"]:0.13240986968770407)[&Unit="ID_193"]:0.16010732730802069,((((((89[&Event=TransmissionTreeToVirusTree3$Event@5f8ed237,Unit="ID_62694"]:0.02242158851703191,(90[&Event=TransmissionTreeToVirusTree3$Event@2f410acf,Unit="ID_91548"]:2.834332)[&Event=TransmissionTreeToVirusTree3$Event@22927a81,Unit="ID_62694"]:0.5550935885170317)[&Unit="ID_62694"]:0.011409411482969145)[&Event=TransmissionTreeToVirusTree3$Event@78e03bb5,Unit="ID_22"]:0.09400416675010348,(91[&Event=TransmissionTreeToVirusTree3$Event@47089e5f,Unit="ID_4420"]:8.993443)[&Event=TransmissionTreeToVirusTree3$Event@4ee285c6,Unit="ID_22"]:0.020610166750104852)[&Unit="ID_22"]:0.0015901126455926118,((((((92[&Event=TransmissionTreeToVirusTree3$Event@4141d797,Unit="ID_1246"]:3.798576748322281,(93[&Event=TransmissionTreeToVirusTree3$Event@68f7aae2,Unit="ID_95283"]:6.234325999999999)[&Event=TransmissionTreeToVirusTree3$Event@15327b79,Unit="ID_1246"]:0.07042374832228226)[&Unit="ID_1246"]:0.12170955132484806,(((((94[&Event=TransmissionTreeToVirusTree3$Event@4f47d241,Unit="ID_95362"]:10.576817999999998)[&Event=TransmissionTreeToVirusTree3$Event@4f2410ac,Unit="ID_1691"]:0.01819191701057221,95[&Event=TransmissionTreeToVirusTree3$Event@4c3e4790,Unit="ID_1691"]:5.6644859170105715)[&Unit="ID_1691"]:0.1858080829894284)[&Event=TransmissionTreeToVirusTree3$Event@722c41f4,Unit="ID_689"]:0.0029343630101332785,(96[&Event=TransmissionTreeToVirusTree3$Event@38cccef,Unit="ID_689"]:2.078565498585,(97[&Event=TransmissionTreeToVirusTree3$Event@5679c6c6,Unit="ID_52284"]:0.7593630000000005)[&Event=TransmissionTreeToVirusTree3$Event@5b80350b,Unit="ID_689"]:0.07497049858499949)[&Unit="ID_689"]:0.1145488644251329)[&Unit="ID_689"]:0.004646636989866781)[&Event=TransmissionTreeToVirusTree3$Event@5d6f64b1,Unit="ID_1246"]:0.3235852996471298)[&Unit="ID_1246"]:0.503004908400837,(98[&Event=TransmissionTreeToVirusTree3$Event@27ddd392,Unit="ID_68168"]:7.054848000000002)[&Event=TransmissionTreeToVirusTree3$Event@573fd745,Unit="ID_1246"]:0.14506720804796647)[&Unit="ID_1246"]:0.2472287919520335)[&Event=TransmissionTreeToVirusTree3$Event@32a1bec0,Unit="ID_22"]:0.03241714174577304,(((99[&Event=TransmissionTreeToVirusTree3$Event@19e1023e,Unit="ID_70702"]:5.84158)[&Event=TransmissionTreeToVirusTree3$Event@50134894,Unit="ID_22"]:0.016667402963335576,(((((100[&Event=TransmissionTreeToVirusTree3$Event@7cef4e59,Unit="ID_30901"]:0.3492999999999995)[&Event=TransmissionTreeToVirusTree3$Event@2957fcb0,Unit="ID_74403"]:0.09716875108306411,101[&Event=TransmissionTreeToVirusTree3$Event@64b8f8f4,Unit="ID_74403"]:8.119604751083063)[&Unit="ID_74403"]:0.05882624891693666)[&Event=TransmissionTreeToVirusTree3$Event@1376c05c,Unit="ID_22"]:0.06659141996257922,((102[&Event=TransmissionTreeToVirusTree3$Event@2db0f6b2,Unit="ID_8312"]:6.946350000000001)[&Event=TransmissionTreeToVirusTree3$Event@1b4fb997,Unit="ID_22"]:0.05856422566681374,(((((((((((((((103[&Event=TransmissionTreeToVirusTree3$Event@3cd1f1c8,Unit="ID_15421"]:10.280605)[&Event=TransmissionTreeToVirusTree3$Event@58d25a40,Unit="ID_32"]:8.915009169996324E-6,(((104[&Event=TransmissionTreeToVirusTree3$Event@3a4afd8d,Unit="ID_9970"]:8.200273000000001)[&Event=TransmissionTreeToVirusTree3$Event@726f3b58,Unit="ID_32"]:0.029661971583319513,((((((105[&Event=TransmissionTreeToVirusTree3$Event@1996cd68,Unit="ID_64635"]:0.578164000000001)[&Event=TransmissionTreeToVirusTree3$Event@442d9b6e,Unit="ID_78749"]:0.0198653674551732,106[&Event=TransmissionTreeToVirusTree3$Event@3339ad8e,Unit="ID_78749"]:6.215071367455176)[&Unit="ID_78749"]:0.0540806325448262)[&Event=TransmissionTreeToVirusTree3$Event@ee7d9f1,Unit="ID_32"]:0.007362330169904396,(107[&Event=TransmissionTreeToVirusTree3$Event@555590,Unit="ID_96326"]:1.2160840000000004)[&Event=TransmissionTreeToVirusTree3$Event@15615099,Unit="ID_32"]:0.01316233016990509)[&Unit="ID_32"]:0.025169969475646425,(108[&Event=TransmissionTreeToVirusTree3$Event@6d1e7682,Unit="ID_41678"]:9.826764)[&Event=TransmissionTreeToVirusTree3$Event@1edf1c96,Unit="ID_32"]:0.07880629964555119)[&Unit="ID_32"]:0.016474023870570065,(((109[&Event=TransmissionTreeToVirusTree3$Event@424c0bc4,Unit="ID_10056"]:0.9502119999999987)[&Event=TransmissionTreeToVirusTree3$Event@6996db8,Unit="ID_32"]:0.14461399645641926,110[&Event=TransmissionTreeToVirusTree3$Event@3c679bde,Unit="ID_32"]:8.41904499645642)[&Unit="ID_32"]:0.09097803836796636,(111[&Event=TransmissionTreeToVirusTree3$Event@16b4a017,Unit="ID_38626"]:11.033585999999998)[&Event=TransmissionTreeToVirusTree3$Event@368102c8,Unit="ID_32"]:0.18773703482438542)[&Unit="ID_32"]:0.05814128869173629)[&Unit="ID_32"]:0.06584364806719911)[&Unit="ID_32"]:0.007835952937711,(112[&Event=TransmissionTreeToVirusTree3$Event@8807e25,Unit="ID_60057"]:3.9547089999999994)[&Event=TransmissionTreeToVirusTree3$Event@1b701da1,Unit="ID_32"]:6.479245210311291E-4)[&Unit="ID_32"]:5.399048813892193E-5)[&Unit="ID_32"]:4.97084990829677E-4)[&Event=TransmissionTreeToVirusTree3$Event@1963006a,Unit="ID_22"]:0.029705116644482388,(((113[&Event=TransmissionTreeToVirusTree3$Event@2a3046da,Unit="ID_36849"]:9.34265762903307,(114[&Event=TransmissionTreeToVirusTree3$Event@2a098129,Unit="ID_57594"]:9.564837)[&Event=TransmissionTreeToVirusTree3$Event@75a1cd57,Unit="ID_36849"]:6.356290330700176E-4)[&Unit="ID_36849"]:0.05868837096693014)[&Event=TransmissionTreeToVirusTree3$Event@3d012ddd,Unit="ID_22"]:0.026946142397168416,(115[&Event=TransmissionTreeToVirusTree3$Event@198e2867,Unit="ID_98669"]:0.2000099999999989)[&Event=TransmissionTreeToVirusTree3$Event@6504e3b2,Unit="ID_22"]:0.09050114239716933)[&Unit="ID_22"]:0.15842797424731359)[&Unit="ID_22"]:0.13277213464924653,(116[&Event=TransmissionTreeToVirusTree3$Event@12f40c25,Unit="ID_94556"]:3.3362230000000004)[&Event=TransmissionTreeToVirusTree3$Event@7e774085,Unit="ID_22"]:0.025856251293729038)[&Unit="ID_22"]:0.10298406541122684,(117[&Event=TransmissionTreeToVirusTree3$Event@3ada9e37,Unit="ID_37280"]:6.7418499999999995)[&Event=TransmissionTreeToVirusTree3$Event@45fe3ee3,Unit="ID_22"]:0.019974316704955086)[&Unit="ID_22"]:0.0012228881285283322,(118[&Event=TransmissionTreeToVirusTree3$Event@5cbc508c,Unit="ID_41191"]:8.429297)[&Event=TransmissionTreeToVirusTree3$Event@5fcfe4b2,Unit="ID_22"]:0.0673732048334843)[&Unit="ID_22"]:0.07198099723891893,(119[&Event=TransmissionTreeToVirusTree3$Event@3419866c,Unit="ID_98321"]:0.7165429999999997)[&Event=TransmissionTreeToVirusTree3$Event@504bae78,Unit="ID_22"]:0.027278202072403168)[&Unit="ID_22"]:0.018709263857171976,((((120[&Event=TransmissionTreeToVirusTree3$Event@63e31ee,Unit="ID_62098"]:2.8187789999999993)[&Event=TransmissionTreeToVirusTree3$Event@4cdf35a9,Unit="ID_739"]:0.06146119538476391,121[&Event=TransmissionTreeToVirusTree3$Event@68fb2c38,Unit="ID_739"]:1.7491701953847638)[&Unit="ID_739"]:0.11766280461523593)[&Event=TransmissionTreeToVirusTree3$Event@4c98385c,Unit="ID_22"]:0.08399482840647643,((122[&Event=TransmissionTreeToVirusTree3$Event@567d299b,Unit="ID_460"]:4.269000799871068,(((123[&Event=TransmissionTreeToVirusTree3$Event@2eafffde,Unit="ID_352"]:1.8430689999999998)[&Event=TransmissionTreeToVirusTree3$Event@3b764bce,Unit="ID_83892"]:0.041253285724992095,124[&Event=TransmissionTreeToVirusTree3$Event@59690aa4,Unit="ID_83892"]:1.1256602857249927)[&Unit="ID_83892"]:0.10251871427500814)[&Event=TransmissionTreeToVirusTree3$Event@759ebb3d,Unit="ID_460"]:0.1680967998710683)[&Unit="ID_460"]:0.22027820012893162)[&Event=TransmissionTreeToVirusTree3$Event@484b61fc,Unit="ID_22"]:0.04038682840647567)[&Unit="ID_22"]:0.06454363752309877)[&Unit="ID_22"]:0.018031286974713012,((((125[&Event=TransmissionTreeToVirusTree3$Event@6842775d,Unit="ID_14544"]:5.251721328552951,(((126[&Event=TransmissionTreeToVirusTree3$Event@574caa3f,Unit="ID_2735"]:5.228072999999998)[&Event=TransmissionTreeToVirusTree3$Event@53e25b76,Unit="ID_35029"]:0.0653416984137003,127[&Event=TransmissionTreeToVirusTree3$Event@64cee07,Unit="ID_35029"]:10.238044698413699)[&Unit="ID_35029"]:0.0711263015863004)[&Event=TransmissionTreeToVirusTree3$Event@73a8dfcc,Unit="ID_14544"]:0.019380328552949244)[&Unit="ID_14544"]:0.24738467144705023)[&Event=TransmissionTreeToVirusTree3$Event@ea30797,Unit="ID_22"]:0.05742281021740325,((128[&Event=TransmissionTreeToVirusTree3$Event@1761e840,Unit="ID_16114"]:10.255857999999998)[&Event=TransmissionTreeToVirusTree3$Event@6d9c638,Unit="ID_22"]:0.16471782525929246,(((129[&Event=TransmissionTreeToVirusTree3$Event@6c629d6e,Unit="ID_321"]:3.3651979125296796,(130[&Event=TransmissionTreeToVirusTree3$Event@5ecddf8f,Unit="ID_28176"]:8.831947999999999)[&Event=TransmissionTreeToVirusTree3$Event@626b2d4a,Unit="ID_321"]:9.819125296806064E-4)[&Unit="ID_321"]:0.06654508747031951)[&Event=TransmissionTreeToVirusTree3$Event@5e91993f,Unit="ID_22"]:0.3877395823529497,(((131[&Event=TransmissionTreeToVirusTree3$Event@3f102e87,Unit="ID_19729"]:6.225000000000001)[&Event=TransmissionTreeToVirusTree3$Event@1ee0005,Unit="ID_22"]:0.08664956981010086,(132[&Event=TransmissionTreeToVirusTree3$Event@27abe2cd,Unit="ID_65262"]:7.675771000000001)[&Event=TransmissionTreeToVirusTree3$Event@dcf3e99,Unit="ID_22"]:0.03336356981010091)[&Unit="ID_22"]:0.08176743072424308,((((133[&Event=TransmissionTreeToVirusTree3$Event@5f5a92bb,Unit="ID_63831"]:8.7838)[&Event=TransmissionTreeToVirusTree3$Event@6f2b958e,Unit="ID_5534"]:0.0415978992389654,134[&Event=TransmissionTreeToVirusTree3$Event@6fdb1f78,Unit="ID_5534"]:5.770119899238967)[&Unit="ID_5534"]:0.0050161007610345365)[&Event=TransmissionTreeToVirusTree3$Event@1eb44e46,Unit="ID_22"]:0.06535624516086624,135[&Event=TransmissionTreeToVirusTree3$Event@51016012,Unit="ID_22"]:7.282085245160865)[&Unit="ID_22"]:0.14448375537347768)[&Unit="ID_22"]:0.04084958181860543)[&Unit="ID_22"]:0.008265242906342785)[&Unit="ID_22"]:0.11227298495811144)[&Unit="ID_22"]:0.13111032890832863,((136[&Event=TransmissionTreeToVirusTree3$Event@29444d75,Unit="ID_46499"]:8.946495999999998)[&Event=TransmissionTreeToVirusTree3$Event@aec6354,Unit="ID_22"]:0.10301593246849272,(137[&Event=TransmissionTreeToVirusTree3$Event@2280cdac,Unit="ID_19084"]:9.996011)[&Event=TransmissionTreeToVirusTree3$Event@1c655221,Unit="ID_22"]:0.10523293246849263)[&Unit="ID_22"]:0.18936820665723975)[&Unit="ID_22"]:0.03971161377855559)[&Unit="ID_22"]:0.18248374574659731,((138[&Event=TransmissionTreeToVirusTree3$Event@1517365b,Unit="ID_32016"]:0.1662220000000012)[&Event=TransmissionTreeToVirusTree3$Event@6aa8ceb6,Unit="ID_22"]:0.019124420415409737,(139[&Event=TransmissionTreeToVirusTree3$Event@4fccd51b,Unit="ID_32950"]:3.2728699999999993)[&Event=TransmissionTreeToVirusTree3$Event@3581c5f3,Unit="ID_22"]:0.00683942041541119)[&Unit="ID_22"]:0.01427607823547472)[&Unit="ID_22"]:0.08437191363810292,(((140[&Event=TransmissionTreeToVirusTree3$Event@44e81672,Unit="ID_66520"]:3.7523920000000004)[&Event=TransmissionTreeToVirusTree3$Event@593634ad,Unit="ID_22"]:0.0034240794904629723,(141[&Event=TransmissionTreeToVirusTree3$Event@60215eee,Unit="ID_26171"]:11.065433999999998)[&Event=TransmissionTreeToVirusTree3$Event@2b05039f,Unit="ID_22"]:0.11722307949046318)[&Unit="ID_22"]:0.0515017928805559,(((142[&Event=TransmissionTreeToVirusTree3$Event@4ca8195f,Unit="ID_9799"]:1.4049949999999995)[&Event=TransmissionTreeToVirusTree3$Event@66cd51c3,Unit="ID_22"]:0.032555019775283967,((((143[&Event=TransmissionTreeToVirusTree3$Event@65e579dc,Unit="ID_1723"]:9.376169999999998)[&Event=TransmissionTreeToVirusTree3$Event@7dc5e7b4,Unit="ID_22"]:0.053610002711699245,(144[&Event=TransmissionTreeToVirusTree3$Event@61baa894,Unit="ID_24336"]:9.17456)[&Event=TransmissionTreeToVirusTree3$Event@c2e1f26,Unit="ID_22"]:0.011459002711698751)[&Unit="ID_22"]:0.10268399784133031,(145[&Event=TransmissionTreeToVirusTree3$Event@b065c63,Unit="ID_33874"]:1.4467009999999991)[&Event=TransmissionTreeToVirusTree3$Event@515f550a,Unit="ID_22"]:0.35175900055303)[&Unit="ID_22"]:0.1841459792805482,(((146[&Event=TransmissionTreeToVirusTree3$Event@768debd,Unit="ID_10777"]:2.143478)[&Event=TransmissionTreeToVirusTree3$Event@7fbe847c,Unit="ID_35393"]:0.06317946176029388,147[&Event=TransmissionTreeToVirusTree3$Event@490d6c15,Unit="ID_35393"]:8.588125461760294)[&Unit="ID_35393"]:0.17020953823970508)[&Event=TransmissionTreeToVirusTree3$Event@41975e01,Unit="ID_22"]:0.2749369798335781)[&Unit="ID_22"]:0.23915903994170584)[&Unit="ID_22"]:0.14822700619786033,(((148[&Event=TransmissionTreeToVirusTree3$Event@7d4793a8,Unit="ID_66039"]:3.2294389999999993)[&Event=TransmissionTreeToVirusTree3$Event@4dcbadb4,Unit="ID_22"]:0.09916715692284139,(149[&Event=TransmissionTreeToVirusTree3$Event@449b2d27,Unit="ID_90365"]:7.976350999999999)[&Event=TransmissionTreeToVirusTree3$Event@61e717c2,Unit="ID_22"]:0.004701156922840788)[&Unit="ID_22"]:0.13472845242046727,(150[&Event=TransmissionTreeToVirusTree3$Event@5479e3f,Unit="ID_57207"]:1.149604)[&Event=TransmissionTreeToVirusTree3$Event@20fa23c1,Unit="ID_22"]:0.024152609343309095)[&Unit="ID_22"]:0.033929416629835174)[&Unit="ID_22"]:0.007799846397874788)[&Unit="ID_22"]:0.007826539917969555)[&Unit="ID_22"]:0.042338261060416826,((151[&Event=TransmissionTreeToVirusTree3$Event@27082746,Unit="ID_22222"]:2.928457)[&Event=TransmissionTreeToVirusTree3$Event@2530c12,Unit="ID_22"]:0.18604210166777158,(((((152[&Event=TransmissionTreeToVirusTree3$Event@66133adc,Unit="ID_980"]:10.766925007399264,((153[&Event=TransmissionTreeToVirusTree3$Event@7bfcd12c,Unit="ID_2246"]:7.0819700231215466,(154[&Event=TransmissionTreeToVirusTree3$Event@42f30e0a,Unit="ID_61881"]:3.762065999999999)[&Event=TransmissionTreeToVirusTree3$Event@6ae40994,Unit="ID_2246"]:0.14312102312154718)[&Unit="ID_2246"]:0.023199976878452766)[&Event=TransmissionTreeToVirusTree3$Event@1a93a7ca,Unit="ID_980"]:0.03034900739926627)[&Unit="ID_980"]:0.40349078231241897,((((155[&Event=TransmissionTreeToVirusTree3$Event@24273305,Unit="ID_45"]:6.537562811692608,((156[&Event=TransmissionTreeToVirusTree3$Event@5b1d2887,Unit="ID_27222"]:4.323739)[&Event=TransmissionTreeToVirusTree3$Event@48533e64,Unit="ID_45"]:0.001586234685391652,(157[&Event=TransmissionTreeToVirusTree3$Event@46f5f779,Unit="ID_61484"]:0.49385800000000124)[&Event=TransmissionTreeToVirusTree3$Event@64a294a6,Unit="ID_45"]:0.032541234685390386)[&Unit="ID_45"]:0.004386577007216452)[&Unit="ID_45"]:0.004288188307393526)[&Event=TransmissionTreeToVirusTree3$Event@7e0b37bc,Unit="ID_1073"]:0.04396773492559758,158[&Event=TransmissionTreeToVirusTree3$Event@1c2c22f3,Unit="ID_1073"]:3.6061877349255975)[&Unit="ID_1073"]:0.062056265074402095)[&Event=TransmissionTreeToVirusTree3$Event@3b95a09c,Unit="ID_980"]:0.3083027897116839)[&Unit="ID_980"]:0.22239921028831589)[&Event=TransmissionTreeToVirusTree3$Event@3d82c5f3,Unit="ID_22"]:0.03253912239802759,(((159[&Event=TransmissionTreeToVirusTree3$Event@18e8568,Unit="ID_21105"]:2.755790000000001)[&Event=TransmissionTreeToVirusTree3$Event@5eb5c224,Unit="ID_22"]:0.05943280841045784,((160[&Event=TransmissionTreeToVirusTree3$Event@33e5ccce,Unit="ID_17106"]:10.595132999999999)[&Event=TransmissionTreeToVirusTree3$Event@3f8f9dd6,Unit="ID_22"]:0.0850599211552181,(161[&Event=TransmissionTreeToVirusTree3$Event@5a42bbf4,Unit="ID_16360"]:3.665929)[&Event=TransmissionTreeToVirusTree3$Event@6bf2d08e,Unit="ID_22"]:0.017549921155217696)[&Unit="ID_22"]:0.025054887255239855)[&Unit="ID_22"]:0.2243100505061859,((((162[&Event=TransmissionTreeToVirusTree3$Event@270421f5,Unit="ID_12192"]:4.912632)[&Event=TransmissionTreeToVirusTree3$Event@ba8a1dc,Unit="ID_134"]:0.3881614608182602,(((163[&Event=TransmissionTreeToVirusTree3$Event@52d455b8,Unit="ID_5685"]:1.3665090982065546,(164[&Event=TransmissionTreeToVirusTree3$Event@4f4a7090,Unit="ID_19026"]:5.187894999999999)[&Event=TransmissionTreeToVirusTree3$Event@17d10166,Unit="ID_5685"]:0.1940540982065535)[&Unit="ID_5685"]:0.226011901793445)[&Event=TransmissionTreeToVirusTree3$Event@1b9e1916,Unit="ID_134"]:6.655367324945871E-4,165[&Event=TransmissionTreeToVirusTree3$Event@18ef96,Unit="ID_134"]:2.7638765367324947)[&Unit="ID_134"]:0.0659779240857663)[&Unit="ID_134"]:0.0575095509590442,(166[&Event=TransmissionTreeToVirusTree3$Event@6956de9,Unit="ID_62516"]:11.508336)[&Event=TransmissionTreeToVirusTree3$Event@4e515669,Unit="ID_134"]:0.044256011777304316)[&Unit="ID_134"]:0.06079598822269627)[&Event=TransmissionTreeToVirusTree3$Event@4f8e5cde,Unit="ID_22"]:0.10070785891664347)[&Unit="ID_22"]:0.06518426348138373)[&Unit="ID_22"]:0.06379967829149269,(167[&Event=TransmissionTreeToVirusTree3$Event@769c9116,Unit="ID_37617"]:0.8512180000000011)[&Event=TransmissionTreeToVirusTree3$Event@73c6c3b2,Unit="ID_22"]:0.09324880068952002)[&Unit="ID_22"]:0.11321330097825122)[&Unit="ID_22"]:0.006694571681633121)[&Unit="ID_22"]:0.06242731729557072,(168[&Event=TransmissionTreeToVirusTree3$Event@6aceb1a5,Unit="ID_65989"]:9.7238)[&Event=TransmissionTreeToVirusTree3$Event@f2a0b8e,Unit="ID_22"]:0.1249329906449752)[&Unit="ID_22"]:0.10244368649208013,(169[&Event=TransmissionTreeToVirusTree3$Event@2d6d8735,Unit="ID_19943"]:6.5938279999999985)[&Event=TransmissionTreeToVirusTree3$Event@694f9431,Unit="ID_22"]:0.08971067713705594)[&Unit="ID_22"]:0.06579554852975811)[&Unit="ID_22"]:0.03972819429576546)[&Unit="ID_22"]:0.003729452556934021,(170[&Event=TransmissionTreeToVirusTree3$Event@ba4d54,Unit="ID_50058"]:0.9530159999999999)[&Event=TransmissionTreeToVirusTree3$Event@51521cc1,Unit="ID_22"]:0.09390687251951313)[&Unit="ID_22"]:0.006674530443822491)[&Unit="ID_22"]:0.09624351388273666,((171[&Event=TransmissionTreeToVirusTree3$Event@12bc6874,Unit="ID_33867"]:1.4954619999999998)[&Event=TransmissionTreeToVirusTree3$Event@5e8c92f4,Unit="ID_22"]:0.029472993833518757,(((172[&Event=TransmissionTreeToVirusTree3$Event@de0a01f,Unit="ID_92035"]:7.211796000000001)[&Event=TransmissionTreeToVirusTree3$Event@deb6432,Unit="ID_22"]:0.059149742297387675,(173[&Event=TransmissionTreeToVirusTree3$Event@4c75cab9,Unit="ID_9658"]:2.222714999999999)[&Event=TransmissionTreeToVirusTree3$Event@28ba21f3,Unit="ID_22"]:0.09822674229738837)[&Unit="ID_22"]:0.11274827764259321,(174[&Event=TransmissionTreeToVirusTree3$Event@1ef7fe8e,Unit="ID_49143"]:4.364602999999999)[&Event=TransmissionTreeToVirusTree3$Event@61e4705b,Unit="ID_22"]:0.01900301993998177)[&Unit="ID_22"]:0.018812973893536977)[&Unit="ID_22"]:0.047292923012554056)[&Unit="ID_22"]:0.03522822489970068)[&Unit="ID_22"]:0.017631804629372638,(175[&Event=TransmissionTreeToVirusTree3$Event@6f79caec,Unit="ID_39917"]:8.025576000000001)[&Event=TransmissionTreeToVirusTree3$Event@621be5d1,Unit="ID_22"]:0.006982946375146071)[&Unit="ID_22"]:0.01653033302055107)[&Unit="ID_22"]:0.02182827698853984,(((((176[&Event=TransmissionTreeToVirusTree3$Event@67117f44,Unit="ID_79823"]:5.740501)[&Event=TransmissionTreeToVirusTree3$Event@46ee7fe8,Unit="ID_355"]:0.34623532293981074,(177[&Event=TransmissionTreeToVirusTree3$Event@5d3411d,Unit="ID_9969"]:8.668159000000001)[&Event=TransmissionTreeToVirusTree3$Event@18769467,Unit="ID_355"]:0.19312032293981107)[&Unit="ID_355"]:0.338878505432332,(178[&Event=TransmissionTreeToVirusTree3$Event@2471cca7,Unit="ID_13950"]:7.278554999999999)[&Event=TransmissionTreeToVirusTree3$Event@1cf4f579,Unit="ID_355"]:0.07502082837214363)[&Unit="ID_355"]:0.6309217108826684,(179[&Event=TransmissionTreeToVirusTree3$Event@5fe5c6f,Unit="ID_355"]:1.6637591439848844,((180[&Event=TransmissionTreeToVirusTree3$Event@6979e8cb,Unit="ID_14654"]:3.053832835278335,(181[&Event=TransmissionTreeToVirusTree3$Event@763d9750,Unit="ID_73262"]:9.484638)[&Event=TransmissionTreeToVirusTree3$Event@6477463f,Unit="ID_14654"]:0.3046628352783336)[&Unit="ID_14654"]:0.033238164721665076)[&Event=TransmissionTreeToVirusTree3$Event@3d71d552,Unit="ID_355"]:0.009488143984884845)[&Unit="ID_355"]:0.015595395269927259)[&Unit="ID_355"]:0.05307846074518863)[&Event=TransmissionTreeToVirusTree3$Event@7506e922,Unit="ID_22"]:0.02613055638423667)[&Unit="ID_22"]:0.014852443615763988)[&Event=TransmissionTreeToVirusTree3$Event@1c4af82c,Unit="ID_193"]:0.38833647644870606)[&Unit="ID_193"]:0.01462652355129368)[&Event=TransmissionTreeToVirusTree3$Event@123a439b,Unit="ID_7818"]:1.726716553848454)[&Unit="ID_7818"]:0.8317220219308687)[&Unit="ID_7818"]:3.8999166106476126)[&Unit="ID_7818"]:0.8436404800021471,((((182[&Event=TransmissionTreeToVirusTree3$Event@5c0369c4,Unit="ID_9721"]:0.28314082009578634,(183[&Event=TransmissionTreeToVirusTree3$Event@2be94b0f,Unit="ID_15072"]:4.035306)[&Event=TransmissionTreeToVirusTree3$Event@246b179d,Unit="ID_9721"]:0.8333228200957867)[&Unit="ID_9721"]:1.7250770589436915,((184[&Event=TransmissionTreeToVirusTree3$Event@d70c109,Unit="ID_17377"]:0.3629204085370532,(185[&Event=TransmissionTreeToVirusTree3$Event@17ed40e0,Unit="ID_42700"]:2.82334)[&Event=TransmissionTreeToVirusTree3$Event@6267c3bb,Unit="ID_17377"]:1.3529224085370537)[&Unit="ID_17377"]:1.781251591462946)[&Event=TransmissionTreeToVirusTree3$Event@533ddba,Unit="ID_9721"]:0.6889988790394783)[&Unit="ID_9721"]:2.06573529535872,((186[&Event=TransmissionTreeToVirusTree3$Event@50675690,Unit="ID_40336"]:15.882013056673213,((((((187[&Event=TransmissionTreeToVirusTree3$Event@31b7dea0,Unit="ID_18656"]:4.475545554741734,(188[&Event=TransmissionTreeToVirusTree3$Event@3ac42916,Unit="ID_41564"]:8.16088)[&Event=TransmissionTreeToVirusTree3$Event@377dca04,Unit="ID_18656"]:0.0626465547417343)[&Unit="ID_18656"]:0.011016445258265506)[&Event=TransmissionTreeToVirusTree3$Event@728938a9,Unit="ID_73601"]:1.0444991930385141,189[&Event=TransmissionTreeToVirusTree3$Event@47d384ee,Unit="ID_73601"]:3.5513701930385126)[&Unit="ID_73601"]:2.515656806961487)[&Event=TransmissionTreeToVirusTree3$Event@21b8d17c,Unit="ID_50176"]:1.2465552215597784,(((190[&Event=TransmissionTreeToVirusTree3$Event@2d6a9952,Unit="ID_60653"]:9.699928597684835,(((191[&Event=TransmissionTreeToVirusTree3$Event@22a71081,Unit="ID_89525"]:2.9065589999999997)[&Event=TransmissionTreeToVirusTree3$Event@685f4c2e,Unit="ID_51339"]:0.03445954066071266,((192[&Event=TransmissionTreeToVirusTree3$Event@3930015a,Unit="ID_16344"]:4.452731999999999)[&Event=TransmissionTreeToVirusTree3$Event@7daf6ecc,Unit="ID_51339"]:0.12606098125921372,((193[&Event=TransmissionTreeToVirusTree3$Event@629f0666,Unit="ID_48233"]:8.788348000000001)[&Event=TransmissionTreeToVirusTree3$Event@2e5d6d97,Unit="ID_51339"]:0.2865202998518317,194[&Event=TransmissionTreeToVirusTree3$Event@1bc6a36e,Unit="ID_51339"]:2.9972002998518317)[&Unit="ID_51339"]:0.24164668140738188)[&Unit="ID_51339"]:0.19218155940149861)[&Unit="ID_51339"]:0.25717545933928854)[&Event=TransmissionTreeToVirusTree3$Event@238e0d81,Unit="ID_60653"]:0.8544075976848333)[&Unit="ID_60653"]:2.2322484023151663)[&Event=TransmissionTreeToVirusTree3$Event@31221be2,Unit="ID_50176"]:0.09547163292806804,195[&Event=TransmissionTreeToVirusTree3$Event@1ff8b8f,Unit="ID_50176"]:5.945455632928067)[&Unit="ID_50176"]:0.6849725886317106)[&Unit="ID_50176"]:0.1545377784402211)[&Event=TransmissionTreeToVirusTree3$Event@6433a2,Unit="ID_40336"]:1.0741890566732124)[&Unit="ID_40336"]:0.693910943326788)[&Event=TransmissionTreeToVirusTree3$Event@5910e440,Unit="ID_9721"]:1.0650651743981978)[&Unit="ID_9721"]:0.7420438256018018)[&Event=TransmissionTreeToVirusTree3$Event@7a07c5b4,Unit="ID_7818"]:0.6028466664290821)[&Unit="ID_7818"]:0.49465713624638497,((((196[&Event=TransmissionTreeToVirusTree3$Event@387c703b,Unit="ID_42833"]:4.996046486103325,(((197[&Event=TransmissionTreeToVirusTree3$Event@224aed64,Unit="ID_75966"]:10.808254999999999)[&Event=TransmissionTreeToVirusTree3$Event@1f17ae12,Unit="ID_498"]:0.019013707138071823,198[&Event=TransmissionTreeToVirusTree3$Event@c39f790,Unit="ID_498"]:11.129718707138071)[&Unit="ID_498"]:0.05575329286192776)[&Event=TransmissionTreeToVirusTree3$Event@17f052a3,Unit="ID_42833"]:0.5884214861033259)[&Unit="ID_42833"]:0.7406125138966742)[&Event=TransmissionTreeToVirusTree3$Event@2e0fa5d3,Unit="ID_38578"]:1.0473726654786324,199[&Event=TransmissionTreeToVirusTree3$Event@71e7a66b,Unit="ID_38578"]:7.224366665478631)[&Unit="ID_38578"]:6.797529334521369)[&Event=TransmissionTreeToVirusTree3$Event@5010be6,Unit="ID_7818"]:0.11863980267546737)[&Unit="ID_7818"]:0.6142181973245329)[&Event=TransmissionTreeToVirusTree3$Event@7de26db8,Unit="ID_99999"]:0.23133197341512002,200[&Event=TransmissionTreeToVirusTree3$Event@2ac1fdc4,Unit="ID_99999"]:20.44059397341512)[&Unit="ID_99999"]:0.5095070265848811)[&Event=TransmissionTreeToVirusTree3$Event@5f150435,Unit="ID_99999"];
+End;
