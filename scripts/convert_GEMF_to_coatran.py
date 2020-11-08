@@ -11,8 +11,8 @@ if __name__ == "__main__":
         print("USAGE: %s <GEMF_output>" % argv[0]); exit(1)
     for i,l in enumerate(open(argv[1])):
         t = l.split()[0].strip()
-        u = l.split()[2].strip()
-        v = choice(l.split()[-1].replace('[','').replace(']','').strip(',').strip().split(',')).strip()
+        v = l.split()[2].strip()
+        u = choice(l.split()[-1].replace('[','').replace(']','').strip(',').strip().split(',')).strip()
         if i == 0:
             print("None\t%s\t0" % u) # seed
         print('%s\t%s\t%s' % (u,v,t))
