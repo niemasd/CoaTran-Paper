@@ -1,0 +1,40 @@
+[compartment number]	[2]
+[layer number]		[1]
+[STATUS_BEGIN]		[0]
+[DIRECTED]		[0]
+[OUT_FILE]		[transmissions.txt]
+[MAX_TIME]		[1e+12]
+[MAX_EVENTS]		[199]
+[SIM_ROUNDS]		[1]
+[INTERVAL_NUM]		[1]
+[RANDOM_SEED]		[1604866516]
+[SHOW_INDUCER]		[1]
+[INDUCER_LIST]
+  1
+[NODAL_TRAN_MATRIX]
+0	0	
+0	0	
+[EDGED_TRAN_MATRIX]
+0	0.1	
+0	0	
+
+missing section [NETWORK_INFO]
+Analysis network info automaticly
+layer 0 edges		[ 199,996 ]
+100000 nodes start from 0
+1 layers
+199996 edges in layer 0
+[node range]		[ 0 - 99,999 ]
+[STATUS_FILE]		[status.txt]
+[initial population]	[ 99,999  1 ]
+Reading network...
+[0.10 s ]	layer[1] [ 199,996/199,996 ] edges get
+initial time cost[ 0.10 s ]
+preprocess time cost[ 0.07 s]
+N [199] 	reach limit [199], stop.	stop simulation round [1/1]
+last moment population[  99,800 200 ]
+events number[ 199 ]
+preprocess time cost[ 0.07 s]
+simulation time cost[ 0.02 s]
+
+simulation success!
