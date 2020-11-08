@@ -1,0 +1,40 @@
+[NODAL_TRAN_MATRIX]
+0	0
+0	0
+
+[EDGED_TRAN_MATRIX]
+0	0.1
+0	0
+
+[STATUS_BEGIN]
+0
+
+[INDUCER_LIST]
+1
+
+[SIM_ROUNDS]
+1
+
+[INTERVAL_NUM]
+1
+
+[MAX_TIME]
+999999999999.0
+
+[MAX_EVENTS]
+19999
+
+[DIRECTED]
+0
+
+[SHOW_INDUCER]
+1
+
+[DATA_FILE]
+contacts.txt
+
+[STATUS_FILE]
+status.txt
+
+[OUT_FILE]
+transmissions.txt
