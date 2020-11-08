@@ -4,3 +4,5 @@
     * Expected Degree: 4
 * Transmission network simulated under SI model
 * Sample times uniformly sampled between time of individual's infection and 2x time of last infection
+* Coalescent trees sampled with constant effective population size
+    * Effective Population Size: 1
